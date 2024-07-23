@@ -1,2 +1,2 @@
 # CPIFuse
-The source code of "CPIFuse: Toward realistic color and enhanced textures in color polarization image fusion".
+The source code will be available after the work is accepted.
