@@ -1,2 +1,2 @@
 # CPIFuse
-The source code will be available after the work is accepted.
+The source code and dataset will be available after the work is accepted.
