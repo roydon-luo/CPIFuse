@@ -1,0 +1,17 @@
+diffsort==0.2.0
+einops==0.8.1
+matplotlib==3.10.0
+mkl-service==2.4.0
+numpy==2.2.5
+opencv-python==4.10.0
+opencv-python-headless==4.10.0
+pyciede2000==0.0.21
+safetensors==0.5.3
+setuptools==72.1.0
+sympy==1.13.1
+tensorboard==2.19.0
+tensorboard-data-server==0.7.2
+timm==1.0.15
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
