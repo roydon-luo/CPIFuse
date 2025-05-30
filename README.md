@@ -32,6 +32,9 @@ python ./train.py
 ```
 The training results are stored in the "./Model/train_model" folder.
 
+## ReLoss
+The training codes for ReLoss are in the "./ReLoss" folder. For more information, please refer in this [link](https://github.com/hunto/ReLoss)
+
 ## References
 If you find this repository useful for your research, please cite the following work.
 ```
